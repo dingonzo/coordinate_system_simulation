@@ -15,4 +15,4 @@ A foundational Python project demonstrating Object-Oriented Programming (OOP) pr
 
  # How To Run
  ```bash
-python point_system.py
+python coordinate_system_simulation.py
