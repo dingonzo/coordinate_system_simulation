@@ -1,4 +1,4 @@
-from coordinate-system-simulation import Point
+from coordinate_system_simulation import Point
 
 def test_point_initialization():
     p = Point(10, 20)
