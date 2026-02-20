@@ -1,4 +1,6 @@
 # coordinate-system-simulation
+[![Python application](https://github.com/dingonzo/coordinate-system-simulation/actions/workflows/python-app.yml/badge.svg)](https://github.com/dingonzo/coordinate-system-simulation/actions/workflows/python-app.yml)
+#
 A foundational Python project demonstrating Object-Oriented Programming (OOP) principles, specifically focusing on Data Classes and class composition.
 
  # Decorators: 
